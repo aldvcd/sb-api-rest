@@ -9,8 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>sb-rest-api</name>
-	<description>Sample REST CRUD API project using Spring Boot, Mysql, JPA and Hibernate</description>
-
+	
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
